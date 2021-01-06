@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple example steps.
     ```
     python cnn_model.py
     ```
-2. Now to test the model you just need to run recognise.py . To do so just open the terminal and run following command.
+2. Now to test the model you just need to run recognise.py . To do so open the terminal and run following command.
     ```
     python ASLR.py
     ```
