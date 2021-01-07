@@ -60,9 +60,9 @@ To get a local copy up and running follow these simple example steps.
     ```
     python ASLR.py
     ```
-<!-- ## Demonstrations
+ ## Demonstrations
 
- <img src="./demo.gif" alt="drawing" width="500" height="350" /> -->
+ <img src="./images/demo.gif" alt="drawing" width="500" height="350" /> 
  
 ## Contributers
 * **Shravan Rajesh**
