@@ -30,7 +30,7 @@
 </details>
 
 ## About The Project
-<!--<img src="./demo_1.png" alt="A-Z alphabets recognition" width="600" height="450" /> -->
+<img src="./images/demo_1.png" alt="A-Z alphabets recognition" width="600" height="450" /> 
 Our project aims at taking the basic step in bridging the communication gap between normal people and deaf people using sign language by building a possible sign language translator, which can take communications in sign language and translate them into written language.
 
 ### Built With
