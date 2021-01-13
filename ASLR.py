@@ -40,7 +40,7 @@ image_x, image_y = 64,64
 
 from keras.models import load_model
 # loading the model
-classifier = load_model('Trained_model.h5')
+classifier = load_model('model/Trained_model.h5')
 
 # prediction 
 def predictor():
